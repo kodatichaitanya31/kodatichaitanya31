@@ -2,7 +2,7 @@
 - 👀 I’m interested in development
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on my teams
-- 📫 How to reach me zoom
+- 📫 How to reach me zooms
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: iam a man
 
